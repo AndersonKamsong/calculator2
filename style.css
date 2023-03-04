@@ -1,0 +1,56 @@
+body{
+    background-image: url(2.jpg);
+    background-repeat: no-repeat ;
+    background-size: 100% 150% ;
+
+}
+table{
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid brown;
+}
+#sr1{
+    background-color:transparent;
+    font-size: 50px;
+    height: 60px;
+    width: 200px;
+}
+
+#bt1{
+    width:50px;
+    height: 40px;
+    background-color:rgb(46, 43, 43);
+    border-radius:12px ;
+    font-size: x-large;
+}
+#bt2{
+    height: 40px;
+    width: 50px;
+    font-size:x-large;
+    border-radius:12px;
+    background-color: orange;
+}
+#bt3{
+    height: 40px;
+    width: 50px;
+    font-size:x-large;
+    background-color: white;
+    border-radius:12px ;
+}
+#bt4{
+    height: 40px;
+    width: 100px;
+    font-size:x-large;
+    border-radius:12px ;
+    background-color:rgb(46, 43, 43);
+}
+div{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    text-align: right;
+}
+
